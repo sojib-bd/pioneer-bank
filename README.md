@@ -4,6 +4,6 @@
 
 ## Technology Info:
 - Demo Banking website
-- Based Saving and Withdraw principle
+- Based on Saving and Withdraw principle
 - **Vanilla JavaScript** is used for dynamic action
 - **Bootstrap** is used for styling the website. 
